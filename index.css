@@ -73,3 +73,10 @@ cursor:pointer;
 .filter{
     display:flex;
 }
+ .nav-items a{
+    text-decoration: none;
+ }
+.user-card{
+    padding:10px;
+    border: solid  black;
+}
